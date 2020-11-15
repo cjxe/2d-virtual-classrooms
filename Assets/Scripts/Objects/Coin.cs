@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Coin : MonoBehaviour
+public class Coin : Powerup
 {
-
+    
     // Start is called before the first frame update
     void Start()
     {
