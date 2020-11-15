@@ -7,8 +7,9 @@ public class InnSign : MonoBehaviour
 {
     public GameObject dialogBox;
     public Text dialogText;
-    public string dialog;
     public bool playerInRange;
+    [TextArea]
+    public string dialog;
     // Start is called before the first frame update
     void Start()
     {
