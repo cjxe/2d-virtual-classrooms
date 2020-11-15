@@ -5,16 +5,18 @@ using UnityEngine;
 public class OpenWindowBreakoutRoom : MonoBehaviour
 {
     public GameObject Window;
+    public GameObject Player;
 
     public void OpenWindowBR()
     {
-        if(Window != null)
-        {
-            bool isActive = Window.activeSelf;
+        if(Player.transform.position.y > 27){
+            if(Window != null)
+            {
+                bool isActive = Window.activeSelf;
 
-            Window.SetActive(!isActive);
+                Window.SetActive(!isActive);
+            }
         }
     }
 }
-
 // https://www.youtube.com/watch?v=LziIlLB2Kt4
