@@ -7,7 +7,7 @@ This project is submitted to DurHack2020.
 
 [Link](https://youtu.be/RDbNJXo9d3E) for a short YouTube video and to the [devpost](https://devpost.com/software/2d-virtual-classrooms).
 
-![gamess_lectureHall](forDevpostSubmission/game.png)
+![gamess_lectureHall](https://i.ibb.co/Hx7sqNV/lecture-Hall.png)
 
 ### Inspiration 💡
 * Students (usually) not talking in breakout rooms.
